@@ -1,3 +1,7 @@
+This no longer works with Android 11+ because now a random port is chosen to connect. Don't use it anymore.
+
+----
+
 # adc
 `adc` is a small command that does a quick port scan to find your Android phone in your network.
 
